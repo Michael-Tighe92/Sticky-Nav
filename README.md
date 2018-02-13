@@ -1,2 +1,3 @@
 # Sticky-Nav
-Created using Sticky Nav (JavaScript30)
+
+- A Javascript project that has a navbar that follows you scrolling down.
